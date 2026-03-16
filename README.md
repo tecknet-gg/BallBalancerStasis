@@ -23,3 +23,4 @@ Here's the BOM:
 | 20mm Acrylic Disc     | Platform Disc        | 1        | £3.49            | https://www.amazon.co.uk/dp/B0DJVB82TY/?coliid=I2NBRJSN1CBSC1&colid=3NYE67N1E05KC&psc=1                                                                                    |
 | 18AWG Wire            | Wire                 | 2        | £2.90            | https://www.amazon.co.uk/dp/B0CZRGH4CT/?coliid=I36BQ0C4MRSHG2&colid=3NYE67N1E05KC&psc=1                                                                                    |
 
+<img width="796" height="734" alt="image" src="https://github.com/tecknet-gg/BallBalancer/blob/master/images/base%20with%20feet.png" />
