@@ -95,7 +95,7 @@ Finally for power, get a barrel jack to screw terminal mount, and just hot glue 
 
 And now we can get onto mounting the platform. Grab your clear acrylic disc and the three mount clip parts. Its not on the 3D assembly, but you'll want first put some M3x6 screws through the main mount, then place the platoform in the recess, and get thread the mount clip onto the bolts, then tighten the screws. You shouldn't need a nut here, but if you end up using a longer bolt, you can. Though the piece is threaded so you shouldn't need to.
 
-<img width="796" height="734" alt="image" src="" />
+<img width="796" height="734" alt="image" src="https://github.com/tecknet-gg/BallBalancer/blob/master/images/mountclip.png" />
 
 
 
