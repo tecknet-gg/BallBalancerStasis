@@ -97,6 +97,10 @@ And now we can get onto mounting the platform. Grab your clear acrylic disc and 
 
 <img width="796" height="734" alt="image" src="https://github.com/tecknet-gg/BallBalancer/blob/master/images/mountclip.png" />
 
+If you want to add the IMU mount like I will, you can print out the IMU Mount v4 file (x2), and just attach the IMU (MPU6050) to it, and attach it to the platoform as you did mounting the platform to the the top arm mount!
+
+<img width="411" height="264" alt="image" src="https://github.com/user-attachments/assets/a725c66c-b3e7-47ee-85cd-adfd04bc9aca" />
+
 
 
 
