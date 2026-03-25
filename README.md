@@ -110,6 +110,14 @@ If you want to add the IMU mount like I will, you can print out the IMU Mount v4
 
 If you happen to be using the PCB, get yourself the board, solder on the DC Barrel Jack, the Pi Zero 2 W and the PCA9685. Then print out the PCB shield instead of the other shield, and mount the PCB on, and voila. Wire up the camera the same. You can wire the IMU into the I2C extender of the PCA9685 in both cases of using the PCB and not.
 
+The PCB looks like so if you do decide to get it fabricated:
+
+<img width="771" height="556" alt="image" src="https://github.com/user-attachments/assets/3d1e399e-eee9-4ca4-9185-a6c2645e6b34" />
+
+For assembling this, just desolder the headers from a Pi Zero 2 W, and put them on the underside, and solder that to the PCB. With the PCA9685, just desolder the headers too, and replace with vertical headers and again solder to the board, and you can place it on the corresponding shield! Also add 3mm LEDs if you so wish to :]
+
+
+
 
 
 
